@@ -55,4 +55,4 @@ After training the `DecisionTreeClassifier`, the model is visualized using `skle
 
 ###  Visual Preview:
 
-![Decision Tree](decision_tree.png
+![Decision Tree](decision_tree.png)
